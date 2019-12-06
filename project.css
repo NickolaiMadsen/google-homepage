@@ -1,0 +1,99 @@
+nav{
+    display: block;
+    width: 100%;
+   position: static;
+   height: 10%;
+    
+    
+}
+ul {
+    list-style-type: none;
+    margin-left: 0;
+    padding: 0;
+    float: right; 
+
+    
+   
+    
+    
+  }
+li { display: inline-flex;
+margin-left: 2em;
+font-size: 13px;
+font-weight: lighter;
+color: grey;
+vertical-align: middle;
+}
+
+section{ 
+align-items: center;
+margin-top: 300px;
+margin-left: 40%;
+
+}
+
+form{
+
+width: 584px;
+height: 46px;
+margin-left: -15%;
+border: 1px solid #dfe1e5;
+border-radius: 24px;
+display: flex;
+flex-wrap: wrap;
+}
+input{
+width: 470px;
+height: 34px;
+border: none;
+margin-top: 5px;
+margin-bottom: 5px;
+
+
+}
+
+svg{
+    height: 20px;
+    width: 20px;
+
+    padding: 13px 0px 13px 10px;
+    margin-right: 10px;
+
+}
+
+#mpBox{
+    border-left: 1px lightgrey solid;
+    height: 67%;
+    margin-top: 5px;
+
+
+}
+#mp {
+
+    height: 20px;
+    width: 20px;
+    padding: 6px 0px 6px 10px;
+    margin-left: 10px;
+}
+
+.btnBox{
+    margin: 35px 4px 5px 4px;
+    
+   
+}
+
+button{
+    height: 36px;
+    min-width: 54px;
+    background-color: #f2f2f2;
+    border: 1px solid #f2f2f2;
+    border-radius: 4px;
+    padding: 0px 16px;
+}
+
+h3{
+    font-size: 14px;
+    line-height: 27px;
+    font-weight: lighter;
+}
+
